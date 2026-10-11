@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-10-11T02:54:15.480Z",
- "total": 174,
- "alive": 162,
- "sellable": 144,
- "hosts": 21,
+ "generatedAt": "2026-10-11T11:48:31.167Z",
+ "total": 175,
+ "alive": 156,
+ "sellable": 137,
+ "hosts": 31,
  "priceBuckets": {
-  "free-gate": 0,
-  "$0.001-0.01": 134,
+  "free-gate": 1,
+  "$0.001-0.01": 132,
   "$0.01-0.05": 16,
   "$0.05-0.25": 7,
-  ">$0.25": 6,
-  "unknown": 11
+  ">$0.25": 4,
+  "unknown": 15
  }
 }
